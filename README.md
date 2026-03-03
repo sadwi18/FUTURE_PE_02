@@ -1,4 +1,4 @@
-# UGC Ad Content Pack — Flowlog SaaS  
+# FUTURE_PE_02  AI Content Marketing using UGC Ads  
 AI-powered UGC ad scripts for Instagram Reels & YouTube Shorts  
 Future Interns – Prompt Engineering Task 2 (2026)
 
