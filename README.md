@@ -1,10 +1,8 @@
-# 🎬 UGC Ad Content Pack — Flowlog SaaS  
+# UGC Ad Content Pack — Flowlog SaaS  
 AI-powered UGC ad scripts for Instagram Reels & YouTube Shorts  
 Future Interns – Prompt Engineering Task 2 (2026)
 
----
-
-## 🧠 Product Overview
+## Product Overview
 
 **Brand:** Flowlog  
 **Type:** SaaS / Productivity Tool  
@@ -16,9 +14,8 @@ The single workspace for solo founders who are done context-switching between 7 
 Freelancers and solo founders lose 2–3 hours daily jumping between Notion, Trello, calendar apps, and time trackers.  
 Flowlog replaces all of them with one focused daily command center.
 
----
 
-## 🎯 Target Audience
+## Target Audience
 
 - Solo founders  
 - Freelancers  
@@ -31,9 +28,8 @@ Flowlog replaces all of them with one focused daily command center.
 **Platforms:**  
 Instagram Reels · YouTube Shorts  
 
----
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 ugc-ad-pack/
 │
@@ -59,9 +55,8 @@ ugc-ad-pack/
 └── instagram-captions.md ← Ready-to-post IG captions per script
 ```
 
----
 
-## ✅ What Makes This Non-Generic
+## What Makes This Non-Generic
 
 Most AI UGC content sounds like a press release.  
 This pack was built on 4 rules:
@@ -79,9 +74,8 @@ This pack was built on 4 rules:
 4. **Hooks that earn attention**  
    Not "check out this product" — but a line that stops a mid-scroll thumb.
 
----
 
-## 🔄 Reuse for Any SaaS Brand
+## Reuse for Any SaaS Brand
 
 See `/prompts/master-ugc-prompt.md`  
 Swap the brand brief and regenerate in under 5 minutes.
