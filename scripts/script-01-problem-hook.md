@@ -6,7 +6,7 @@
 **Estimated read time:** 25 seconds
 
 
-## 📱 Instagram Reels Version
+## Instagram Reels Version
 
 **[HOOK]**  
 "I had 9 tabs open at 11pm and I still hadn't done the one thing that actually mattered."
@@ -24,7 +24,7 @@ Creator sitting at a messy desk, talking directly to camera. Mid-shot. Natural l
 Show the phone or laptop screen briefly when mentioning Flowlog.
 
 
-## 🎬 YouTube Shorts Version
+## YouTube Shorts Version
 
 **[HOOK — on-screen text overlay]**  
 *"9 tabs open. Nothing done."*
