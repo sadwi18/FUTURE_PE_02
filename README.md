@@ -34,7 +34,7 @@ Instagram Reels · YouTube Shorts
 ---
 
 ## 📁 Repository Structure
-'''
+```
 ugc-ad-pack/
 │
 ├── README.md ← You're here
@@ -57,7 +57,7 @@ ugc-ad-pack/
 │
 └── captions/
 └── instagram-captions.md ← Ready-to-post IG captions per script
-'''
+```
 
 ---
 
@@ -86,6 +86,4 @@ This pack was built on 4 rules:
 See `/prompts/master-ugc-prompt.md`  
 Swap the brand brief and regenerate in under 5 minutes.
 
----
 
-Built with Claude (Anthropic) · Task by Future Interns 2026
