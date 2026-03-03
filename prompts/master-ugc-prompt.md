@@ -1,4 +1,3 @@
-# 9. Master ugc prompts (prompts/master-ugc-prompt.md)
 # Master UGC Ad Script Prompt — Reusable for Any SaaS Brand
 
 ## How to Use This Prompt
