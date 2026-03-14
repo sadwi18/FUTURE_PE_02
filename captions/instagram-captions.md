@@ -1,8 +1,3 @@
-# Instagram Captions — One Per Script
-
-Captions are written to complement the video — not repeat it.  
-Short, punchy, platform-native. Hashtags are research-based, not random.
-
 
 ## Caption 01 — (For Script 01: Problem Hook)
 
